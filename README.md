@@ -1,4 +1,4 @@
- 👋 Hey, I'm Aamod Dwivedi
+# 👋 Hey, I'm Aamod Dwivedi
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=850&lines=Final-Year+CSE+Student;Java+%26+DSA+Enthusiast;Full-Stack+Developer;MERN+Stack+Developer;Building+Real-World+Projects;Always+Learning+%26+Building" />
@@ -24,7 +24,7 @@
 <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://drive.google.com/file/d/18pKX8m137CSYFr_4n7D9RBs_GpXRmXCa/view?usp=sharing" target="Resume">
+<a href="https://drive.google.com/file/d/18pKX8m137CSYFr_4n7D9RBs_GpXRmXCa/view?usp=sharing" target="_blank">
 <img src="https://img.shields.io/badge/Resume-Download-00C7B7?style=for-the-badge&logo=readthedocs&logoColor=white"/>
 </a>
 
@@ -211,7 +211,12 @@ while (learning) {
 # 🧩 LeetCode Stats
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/aamoddwivedi?theme=dark&font=baloo&ext=heatmap" />
+
+<img
+  src="https://leetcard.jacoblin.cool/aamoddwivedi?theme=dark&font=baloo&ext=heatmap"
+  alt="Aamod Dwivedi LeetCode Stats"
+/>
+
 </p>
 
 <p align="center">
@@ -237,8 +242,8 @@ while (learning) {
 ║           ↓          ↓           ↓          ║
 ║         SOLVED      SOLVED      SOLVED      ║
 ║                                              ║
-║              TOTAL PROBLEMS                 ║
-║                  SOLVED                     ║
+║              TOTAL PROBLEMS                  ║
+║                  SOLVED                      ║
 ║                                              ║
 ╚══════════════════════════════════════════════╝
 ```
@@ -356,47 +361,105 @@ AI / Modern Tech       ███████░░░░░░░░░░░░
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=aamoddwivedi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aamoddwivedi&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+<img
+  height="180"
+  src="https://github-readme-stats.vercel.app/api?username=aamoddwivedi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
+  alt="Aamod GitHub Stats"
+/>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=aamoddwivedi&theme=tokyonight&hide_border=true" />
+<img
+  height="180"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=aamoddwivedi&layout=compact&theme=tokyonight&hide_border=true"
+  alt="Aamod Top Languages"
+/>
+
 </p>
 
 ---
 
-# 🐍 Contribution Activity
-    name: Generate Contribution Snake
+# 🔥 GitHub Streak
 
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
+<p align="center">
 
-jobs:
-  generate:
-    runs-on: ubuntu-latest
+<img
+  src="https://streak-stats.demolab.com/?user=aamoddwivedi&theme=tokyonight&hide_border=true&border_radius=10"
+  alt="Aamod GitHub Streak"
+/>
 
-    permissions:
-      contents: write
+</p>
 
-    steps:
-      - name: Generate Snake
-        uses: Platane/snk@v3
-        with:
-          github_user_name: aamoddwivedi
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+---
 
-      - name: Deploy Snake
-        uses: crazy-max/ghaction-github-pages@v4
-        with:
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=aamoddwivedi&theme=tokyo-night&hide_border=true&area=true"
+  width="95%"
+  alt="Aamod Contribution Graph"
+/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<picture>
+
+<source
+  media="(prefers-color-scheme: dark)"
+  srcset="https://raw.githubusercontent.com/aamoddwivedi/aamoddwivedi/output/github-contribution-grid-snake-dark.svg"
+/>
+
+<source
+  media="(prefers-color-scheme: light)"
+  srcset="https://raw.githubusercontent.com/aamoddwivedi/aamoddwivedi/output/github-contribution-grid-snake.svg"
+/>
+
+<img
+  src="https://raw.githubusercontent.com/aamoddwivedi/aamoddwivedi/output/github-contribution-grid-snake-dark.svg"
+  alt="GitHub Contribution Snake"
+  width="95%"
+/>
+
+</picture>
+
+</p>
+
+---
+
+# 🚀 Featured Repository Activity
+
+<p align="center">
+
+<a href="https://github.com/aamoddwivedi/CalculateAnything">
+
+<img
+  src="https://github-readme-stats.vercel.app/api/pin/?username=aamoddwivedi&repo=CalculateAnything&theme=tokyonight&hide_border=true"
+  width="45%"
+  alt="CalculateAnything"
+/>
+
+</a>
+
+<a href="https://github.com/aamoddwivedi/MedKart-Pharmacy-Management-System">
+
+<img
+  src="https://github-readme-stats.vercel.app/api/pin/?username=aamoddwivedi&repo=MedKart-Pharmacy-Management-System&theme=tokyonight&hide_border=true"
+  width="45%"
+  alt="MedKart"
+/>
+
+</a>
+
+</p>
+
+---
 
 # 🔥 My Developer Loop
 
@@ -478,7 +541,7 @@ Keep improving.
 <img src="https://img.shields.io/badge/GitHub-Aamod%20Dwivedi-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://www.linkedin.com/in/aamoddwivedi/">
+<a href="https://www.linkedin.com/in/amod-kumar-dwivedi-4a6883295/">
 <img src="https://img.shields.io/badge/LinkedIn-Aamod%20Dwivedi-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 
@@ -486,7 +549,7 @@ Keep improving.
 <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="YOUR_RESUME_URL" target="_blank">
+<a href="https://drive.google.com/file/d/18pKX8m137CSYFr_4n7D9RBs_GpXRmXCa/view?usp=sharing" target="_blank">
 <img src="https://img.shields.io/badge/Resume-Download-00C7B7?style=for-the-badge&logo=readthedocs&logoColor=white"/>
 </a>
 
@@ -528,5 +591,7 @@ Keep improving.
 </p>
 
 <p align="center">
+
 ⭐ Thanks for visiting my profile!
+
 </p>
