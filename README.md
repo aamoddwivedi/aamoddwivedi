@@ -16,7 +16,7 @@
 <img src="https://img.shields.io/badge/GitHub-Aamod%20Dwivedi-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://www.linkedin.com/in/amod-kumar-dwivedi-4a6883295/">
+<a href="https://www.linkedin.com/in/aamoddwivedi/">
 <img src="https://img.shields.io/badge/LinkedIn-Aamod%20Dwivedi-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 
@@ -24,7 +24,7 @@
 <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://drive.google.com/file/d/18pKX8m137CSYFr_4n7D9RBs_GpXRmXCa/view?usp=sharing" target="Resume">
+<a href="YOUR_RESUME_URL" target="_blank">
 <img src="https://img.shields.io/badge/Resume-Download-00C7B7?style=for-the-badge&logo=readthedocs&logoColor=white"/>
 </a>
 
@@ -226,42 +226,21 @@ while (learning) {
 
 </p>
 
-### 📊 Problem Solving
-
-```text
-╔══════════════════════════════════════════════╗
-║                                              ║
-║              🧩 LEETCODE JOURNEY            ║
-║                                              ║
-║        🟢 EASY    🟡 MEDIUM    🔴 HARD      ║
-║           ↓          ↓           ↓          ║
-║         SOLVED      SOLVED      SOLVED      ║
-║                                              ║
-║              TOTAL PROBLEMS                 ║
-║                  SOLVED                     ║
-║                                              ║
-╚══════════════════════════════════════════════╝
-```
-
-### 🧠 DSA Focus
+### 🎯 Problem-Solving Focus
 
 ```text
 ┌─────────────────────────────────────────────┐
 │                                             │
 │  ☕ Primary Language → Java                 │
-│                                             │
 │  🧩 Platform          → LeetCode            │
-│                                             │
 │  🎯 Main Focus        → DSA                 │
-│                                             │
 │  ⚡ Approach           → Optimal Solutions  │
-│                                             │
 │  📈 Goal              → Consistent Growth   │
 │                                             │
 └─────────────────────────────────────────────┘
 ```
 
-### 📚 Patterns I'm Practicing
+### 📚 Patterns
 
 ```text
 Arrays              Strings
@@ -305,12 +284,6 @@ Dynamic Programming
 
 > **Solve → Understand → Optimize → Repeat**
 
-<p align="center">
-  <a href="https://leetcode.com/u/aamoddwivedi/">
-    <img src="https://img.shields.io/badge/Visit%20My%20LeetCode-🚀-FFA116?style=for-the-badge"/>
-  </a>
-</p>
-
 ---
 
 # 📈 My Learning Stack
@@ -323,8 +296,6 @@ Backend Development    ████████████░░░░░░░
 System Design          ████████░░░░░░░░░░░░  40%
 AI / Modern Tech       ███████░░░░░░░░░░░░░  35%
 ```
-
-> These aren't fixed scores — they're simply a snapshot of what I'm currently spending time improving.
 
 ---
 
@@ -356,22 +327,137 @@ AI / Modern Tech       ███████░░░░░░░░░░░░
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=aamoddwivedi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aamoddwivedi&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+<img
+  src="https://github-readme-stats.vercel.app/api?username=aamoddwivedi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"
+  height="180"
+/>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=aamoddwivedi&theme=tokyonight&hide_border=true" />
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=aamoddwivedi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+  height="180"
+/>
+
 </p>
 
 ---
 
-# 🐍 Contribution Activity
+# 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/aamoddwivedi/aamoddwivedi/output/github-contribution-grid-snake-dark.svg" />
+
+<img
+  src="https://streak-stats.demolab.com?user=aamoddwivedi&theme=tokyonight&hide_border=true&border_radius=10"
+/>
+
 </p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img
+  src="https://github-profile-trophy.vercel.app/?username=aamoddwivedi&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=2&column=4"
+/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=aamoddwivedi&theme=tokyo-night&hide_border=true&area=true"
+/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<picture>
+
+<source
+  media="(prefers-color-scheme: dark)"
+  srcset="https://raw.githubusercontent.com/aamoddwivedi/aamoddwivedi/output/github-contribution-grid-snake-dark.svg"
+/>
+
+<source
+  media="(prefers-color-scheme: light)"
+  srcset="https://raw.githubusercontent.com/aamoddwivedi/aamoddwivedi/output/github-contribution-grid-snake.svg"
+/>
+
+<img
+  alt="GitHub Contribution Snake"
+  src="https://raw.githubusercontent.com/aamoddwivedi/aamoddwivedi/output/github-contribution-grid-snake-dark.svg"
+/>
+
+</picture>
+
+</p>
+
+---
+
+# 💚 Contribution Activity
+
+<p align="center">
+
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=aamoddwivedi&bg_color=0d1117&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=true"
+/>
+
+</p>
+
+---
+
+# 🚀 Featured Repository Activity
+
+<p align="center">
+
+<a href="https://github.com/aamoddwivedi/CalculateAnything">
+<img
+  src="https://github-readme-stats.vercel.app/api/pin/?username=aamoddwivedi&repo=CalculateAnything&theme=tokyonight&hide_border=true"
+/>
+</a>
+
+<a href="https://github.com/aamoddwivedi/MedKart-Pharmacy-Management-System">
+<img
+  src="https://github-readme-stats.vercel.app/api/pin/?username=aamoddwivedi&repo=MedKart-Pharmacy-Management-System&theme=tokyonight&hide_border=true"
+/>
+</a>
+
+</p>
+
+---
+
+# ⚡ Developer Activity
+
+```text
+╔════════════════════════════════════════════════╗
+║                                                ║
+║                 AAMOD DWIVEDI                  ║
+║                                                ║
+║    💻 CODE                                     ║
+║       └── Build real-world applications        ║
+║                                                ║
+║    🧠 LEARN                                    ║
+║       └── DSA + Java + CS fundamentals         ║
+║                                                ║
+║    🚀 SHIP                                     ║
+║       └── Deploy and improve projects          ║
+║                                                ║
+║    🔁 REPEAT                                   ║
+║       └── Learn → Build → Improve              ║
+║                                                ║
+╚════════════════════════════════════════════════╝
+```
 
 ---
 
@@ -505,5 +591,7 @@ Keep improving.
 </p>
 
 <p align="center">
+
 ⭐ Thanks for visiting my profile!
+
 </p>
