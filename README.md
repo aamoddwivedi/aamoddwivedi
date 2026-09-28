@@ -211,7 +211,12 @@ while (learning) {
 # 🧩 LeetCode Stats
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/aamoddwivedi?theme=dark&font=baloo&ext=heatmap" />
+
+<img
+  src="https://leetcard.jacoblin.cool/aamoddwivedi?theme=dark&font=baloo&ext=heatmap"
+  alt="Aamod Dwivedi LeetCode Stats"
+/>
+
 </p>
 
 <p align="center">
@@ -331,11 +336,13 @@ AI / Modern Tech       ███████░░░░░░░░░░░░
 <img
   src="https://github-readme-stats.vercel.app/api?username=aamoddwivedi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"
   height="180"
+  alt="Aamod GitHub Stats"
 />
 
 <img
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=aamoddwivedi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
   height="180"
+  alt="Aamod Top Languages"
 />
 
 </p>
@@ -347,19 +354,8 @@ AI / Modern Tech       ███████░░░░░░░░░░░░
 <p align="center">
 
 <img
-  src="https://streak-stats.demolab.com?user=aamoddwivedi&theme=tokyonight&hide_border=true&border_radius=10"
-/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img
-  src="https://github-profile-trophy.vercel.app/?username=aamoddwivedi&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=2&column=4"
+  src="https://streak-stats.demolab.com/?user=aamoddwivedi&theme=tokyonight&hide_border=true&border_radius=10"
+  alt="Aamod GitHub Streak"
 />
 
 </p>
@@ -372,6 +368,8 @@ AI / Modern Tech       ███████░░░░░░░░░░░░
 
 <img
   src="https://github-readme-activity-graph.vercel.app/graph?username=aamoddwivedi&theme=tokyo-night&hide_border=true&area=true"
+  width="95%"
+  alt="Aamod Contribution Graph"
 />
 
 </p>
@@ -395,23 +393,12 @@ AI / Modern Tech       ███████░░░░░░░░░░░░
 />
 
 <img
-  alt="GitHub Contribution Snake"
   src="https://raw.githubusercontent.com/aamoddwivedi/aamoddwivedi/output/github-contribution-grid-snake-dark.svg"
+  alt="GitHub Contribution Snake"
+  width="95%"
 />
 
 </picture>
-
-</p>
-
----
-
-# 💚 Contribution Activity
-
-<p align="center">
-
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=aamoddwivedi&bg_color=0d1117&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=true"
-/>
 
 </p>
 
@@ -422,15 +409,23 @@ AI / Modern Tech       ███████░░░░░░░░░░░░
 <p align="center">
 
 <a href="https://github.com/aamoddwivedi/CalculateAnything">
+
 <img
   src="https://github-readme-stats.vercel.app/api/pin/?username=aamoddwivedi&repo=CalculateAnything&theme=tokyonight&hide_border=true"
+  width="45%"
+  alt="CalculateAnything"
 />
+
 </a>
 
 <a href="https://github.com/aamoddwivedi/MedKart-Pharmacy-Management-System">
+
 <img
   src="https://github-readme-stats.vercel.app/api/pin/?username=aamoddwivedi&repo=MedKart-Pharmacy-Management-System&theme=tokyonight&hide_border=true"
+  width="45%"
+  alt="MedKart"
 />
+
 </a>
 
 </p>
