@@ -368,6 +368,17 @@ AI / Modern Tech       ███████░░░░░░░░░░░░
 ---
 
 # 🐍 Contribution Activity
+    name: Generate Contribution Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
     permissions:
       contents: write
 
