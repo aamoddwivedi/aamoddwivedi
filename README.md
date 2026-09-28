@@ -1,7 +1,7 @@
 # 👋 Hey, I'm Aamod Dwivedi
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Final-Year+CSE+Student;Java+%26+DSA+Enthusiast;Full-Stack+Developer;MERN+Stack+Developer;Building+Real-World+Projects;Always+Learning+%26+Building" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=850&lines=Final-Year+CSE+Student;Java+%26+DSA+Enthusiast;Full-Stack+Developer;MERN+Stack+Developer;Building+Real-World+Projects;Always+Learning+%26+Building" />
 </p>
 
 <p align="center">
@@ -12,21 +12,21 @@
 
 <p align="center">
 
-  <a href="https://github.com/aamoddwivedi">
-    <img src="https://img.shields.io/badge/GitHub-Aamod%20Dwivedi-181717?style=for-the-badge&logo=github"/>
-  </a>
+<a href="https://github.com/aamoddwivedi">
+<img src="https://img.shields.io/badge/GitHub-Aamod%20Dwivedi-181717?style=for-the-badge&logo=github"/>
+</a>
 
-  <a href="https://www.linkedin.com/in/aamoddwivedi/">
-    <img src="https://img.shields.io/badge/LinkedIn-Aamod%20Dwivedi-0A66C2?style=for-the-badge&logo=linkedin"/>
-  </a>
+<a href="https://www.linkedin.com/in/aamoddwivedi/">
+<img src="https://img.shields.io/badge/LinkedIn-Aamod%20Dwivedi-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
 
-  <a href="mailto:amodkumardwivedi0081@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+<a href="mailto:amodkumardwivedi0081@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-  <a href="YOUR_RESUME_URL" target="_blank">
-    <img src="https://img.shields.io/badge/Resume-Download-00C7B7?style=for-the-badge&logo=readthedocs&logoColor=white"/>
-  </a>
+<a href="YOUR_RESUME_URL" target="_blank">
+<img src="https://img.shields.io/badge/Resume-Download-00C7B7?style=for-the-badge&logo=readthedocs&logoColor=white"/>
+</a>
 
 </p>
 
@@ -208,6 +208,111 @@ while (learning) {
 
 ---
 
+# 🧩 LeetCode Stats
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/aamoddwivedi?theme=dark&font=baloo&ext=heatmap" />
+</p>
+
+<p align="center">
+
+<a href="https://leetcode.com/u/aamoddwivedi/">
+<img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<img src="https://img.shields.io/badge/Language-Java-orange?style=for-the-badge&logo=openjdk&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Focus-DSA-blue?style=for-the-badge"/>
+
+</p>
+
+### 📊 Problem Solving
+
+```text
+╔══════════════════════════════════════════════╗
+║                                              ║
+║              🧩 LEETCODE JOURNEY            ║
+║                                              ║
+║        🟢 EASY    🟡 MEDIUM    🔴 HARD      ║
+║           ↓          ↓           ↓          ║
+║         SOLVED      SOLVED      SOLVED      ║
+║                                              ║
+║              TOTAL PROBLEMS                 ║
+║                  SOLVED                     ║
+║                                              ║
+╚══════════════════════════════════════════════╝
+```
+
+### 🧠 DSA Focus
+
+```text
+┌─────────────────────────────────────────────┐
+│                                             │
+│  ☕ Primary Language → Java                 │
+│                                             │
+│  🧩 Platform          → LeetCode            │
+│                                             │
+│  🎯 Main Focus        → DSA                 │
+│                                             │
+│  ⚡ Approach           → Optimal Solutions  │
+│                                             │
+│  📈 Goal              → Consistent Growth   │
+│                                             │
+└─────────────────────────────────────────────┘
+```
+
+### 📚 Patterns I'm Practicing
+
+```text
+Arrays              Strings
+HashMap             HashSet
+Two Pointers        Sliding Window
+Binary Search       Sorting
+Linked List         Stack
+Queue               Heap
+Trees               Graphs
+Greedy              Backtracking
+Dynamic Programming
+```
+
+### 🔥 Problem-Solving Cycle
+
+```text
+       🧩 PROBLEM
+           │
+           ▼
+      🧠 UNDERSTAND
+           │
+           ▼
+       💡 APPROACH
+           │
+           ▼
+       ☕ CODE IN JAVA
+           │
+           ▼
+       ⚡ OPTIMIZE
+           │
+           ▼
+       📊 ANALYZE
+      TIME + SPACE
+           │
+           ▼
+       🚀 SUBMIT
+           │
+           ▼
+        🔁 REPEAT
+```
+
+> **Solve → Understand → Optimize → Repeat**
+
+<p align="center">
+  <a href="https://leetcode.com/u/aamoddwivedi/">
+    <img src="https://img.shields.io/badge/Visit%20My%20LeetCode-🚀-FFA116?style=for-the-badge"/>
+  </a>
+</p>
+
+---
+
 # 📈 My Learning Stack
 
 ```text
@@ -252,6 +357,7 @@ AI / Modern Tech       ███████░░░░░░░░░░░░
 
 <p align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=aamoddwivedi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aamoddwivedi&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
@@ -357,7 +463,7 @@ Keep improving.
 <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://drive.google.com/file/d/18pKX8m137CSYFr_4n7D9RBs_GpXRmXCa/view?usp=sharing" target="Resume">
+<a href="YOUR_RESUME_URL" target="_blank">
 <img src="https://img.shields.io/badge/Resume-Download-00C7B7?style=for-the-badge&logo=readthedocs&logoColor=white"/>
 </a>
 
