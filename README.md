@@ -369,11 +369,35 @@ AI / Modern Tech       ███████░░░░░░░░░░░░
 
 # 🐍 Contribution Activity
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/aamoddwivedi/aamoddwivedi/output/github-contribution-grid-snake-dark.svg" />
-</p>
+name: Generate Contribution Snake
 
----
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - name: Generate Snake
+        uses: Platane/snk@v3
+        with:
+          github_user_name: aamoddwivedi
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: Deploy Snake
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
 # 🔥 My Developer Loop
 
