@@ -16,7 +16,7 @@
 <img src="https://img.shields.io/badge/GitHub-Aamod%20Dwivedi-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://www.linkedin.com/in/aamoddwivedi/">
+<a href="https://www.linkedin.com/in/amod-kumar-dwivedi-4a6883295/">
 <img src="https://img.shields.io/badge/LinkedIn-Aamod%20Dwivedi-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 
