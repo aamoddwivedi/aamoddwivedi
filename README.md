@@ -463,7 +463,7 @@ Keep improving.
 <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="YOUR_RESUME_URL" target="_blank">
+<a href="https://drive.google.com/file/d/18pKX8m137CSYFr_4n7D9RBs_GpXRmXCa/view?usp=sharing" target="_blank">
 <img src="https://img.shields.io/badge/Resume-Download-00C7B7?style=for-the-badge&logo=readthedocs&logoColor=white"/>
 </a>
 
